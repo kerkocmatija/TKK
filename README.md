@@ -1,3 +1,10 @@
-# TKK
+# CODING THEORY AND CRYPTOGRAPHY
+# (Teorija kodiranja in kriptografija)
 
-Tri domače naloge, ki sem jih napisal v jeziku python v letu 2018/19.
+Homework for course Coding theory and cryptography at Faculty of Mathematics and Physics in 2018/19.
+
+## Homework overview
+
+1. ff
+2. fwe
+3. fweff
