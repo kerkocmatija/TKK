@@ -4,6 +4,27 @@
 Homework for course Coding theory and cryptography at Faculty of Mathematics and Physics in 2018/19.
 
 
+## Course content overview
+
+1. Coding theory:
+  - information and entropy,
+  - Shannon theory,
+  - error correcting codes,
+  - upper bounds for number of words,
+  - linear, Hamming, cyclic and Reed-Muller codes.
+
+2. Cryptography:
+  - classic cryptography,
+  - private key systems,
+  - RSA and public key systems,
+  - digital signature,
+  - hash functions,
+  - key distribution and exchange,
+  - identification, checking and exchange of secrets,
+  - generating pseudo-random numbers,
+  - zero information proofs.
+
+
 ## Homework overview
 
 1. Cypher and Decypher:
